@@ -45,7 +45,7 @@ To ensure that the data is correctly loaded, we display some images from the tra
 
 ## Model Performance
 - [Data Link](https://universe.roboflow.com/adhithya-m-suresh-nsubg/classification-rho4j)
-- The model is evaluated on its ability to classify flower images into one of the five classes: **Malvaviscus**,
+- The model is evaluated on its ability to classify flower images into one of the nine classes: **Malvaviscus**,
       **hortensia**,
       **hortensia malvavicus**,
       **hortensia malvavicus_multiple**,
